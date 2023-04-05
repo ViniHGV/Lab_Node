@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/ViniHGV/Lab_Node/issues"
   },
-  "homepage": "https://github.com/ViniHGV/Lab_Node#readme"
+  "homepage": "https://github.com/ViniHGV/Lab_Node#readme",
+  "dependencies": {
+    "moment": "^2.29.4"
+  }
 }
