@@ -5,7 +5,7 @@ fs.writeFile('test.txt', 'Olá NodeJs\n', err =>{
     console.log(err)
 })
 
-//Apagar arquivo
+// Apagar arquivo
 fs.unlink('test.txt' , err =>{
     console.log(err)
 })
